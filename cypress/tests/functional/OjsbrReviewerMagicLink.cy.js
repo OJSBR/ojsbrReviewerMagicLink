@@ -164,7 +164,14 @@ describe('Reviewer link for 30 days plugin', function() {
 		{log: false, timeout: 30000}
 	));
 
-	const acceptUrl = (query) => pageUrl('invitation/accept') + (query ? '?' + query : '');
+	// The links of the e-mails carry the language (/en/invitation/accept); a URL
+	// without it is first redirected by the core to the one with it.
+	let language = null;
+	const acceptUrl = (query) => '/index.php/' + contextPath + '/' + language + '/invitation/accept' + (query ? '?' + query : '');
+	const findLanguage = () => cy.request({url: pageUrl('invitation/accept'), followRedirect: false, failOnStatusCode: false}).then((response) => {
+		const found = /\/index\.php\/[^/]+\/([a-z]{2}(?:_[A-Za-z]+)?)\//.exec(response.headers.location || '');
+		language = found ? found[1] : 'en';
+	});
 
 	it('Enables the plugin and offers a settings form for the journal', function() {
 		login(adminUser, adminPassword);
@@ -204,7 +211,8 @@ describe('Reviewer link for 30 days plugin', function() {
 
 	it('Answers a HEAD request with nothing at all', function() {
 		cy.clearCookies();
-		cy.request({method: 'HEAD', url: acceptUrl('id=1&key=anything'), followRedirect: false, failOnStatusCode: false}).then((response) => {
+		findLanguage();
+		cy.then(() => cy.request({method: 'HEAD', url: acceptUrl('id=1&key=anything'), followRedirect: false, failOnStatusCode: false})).then((response) => {
 			expect(response.status).to.eq(200);
 			expect(response.headers).to.not.have.property('set-cookie');
 		});
@@ -212,15 +220,16 @@ describe('Reviewer link for 30 days plugin', function() {
 
 	it('Leads a link that cannot be used to the login form, never to a 404', function() {
 		cy.clearCookies();
+		findLanguage();
 		['id=987654321&key=wrong', 'id=1&key=wrong', ''].forEach((query) => {
-			cy.request({url: acceptUrl(query), followRedirect: false, failOnStatusCode: false}).then((response) => {
+			cy.then(() => cy.request({url: acceptUrl(query), followRedirect: false, failOnStatusCode: false})).then((response) => {
 				expect(response.status, query || 'no id').to.be.oneOf([301, 302, 303]);
 				expect(response.headers.location).to.contain('/login');
 				expect(decodeURIComponent(response.headers.location)).to.contain('loginMessage=' + notice);
 				expect(decodeURIComponent(response.headers.location)).to.contain('source=/');
 			});
 		});
-		cy.visit(acceptUrl('id=987654321&key=wrong'));
+		cy.then(() => cy.visit(acceptUrl('id=987654321&key=wrong')));
 		cy.get('form#login').should('exist');
 		cy.get('body').invoke('text').should('not.contain', '##');
 	});
