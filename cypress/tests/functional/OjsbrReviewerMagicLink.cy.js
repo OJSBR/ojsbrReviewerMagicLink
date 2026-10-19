@@ -212,7 +212,7 @@ describe('Reviewer link for 30 days plugin', function() {
 	it('Answers a HEAD request with nothing at all', function() {
 		cy.clearCookies();
 		findLanguage();
-		cy.then(() => cy.request({method: 'HEAD', url: acceptUrl('id=1&key=anything'), followRedirect: false, failOnStatusCode: false})).then((response) => {
+		cy.then(() => cy.request({method: 'HEAD', url: acceptUrl('id=987654321&key=anything'), followRedirect: false, failOnStatusCode: false})).then((response) => {
 			expect(response.status).to.eq(200);
 			expect(response.headers).to.not.have.property('set-cookie');
 		});
@@ -221,7 +221,9 @@ describe('Reviewer link for 30 days plugin', function() {
 	it('Leads a link that cannot be used to the login form, never to a 404', function() {
 		cy.clearCookies();
 		findLanguage();
-		['id=987654321&key=wrong', 'id=1&key=wrong', ''].forEach((query) => {
+		// Ids that match no invitation: an id of another kind of invitation is the
+		// core's business, and the data set has some.
+		['id=987654321&key=wrong', 'id=987654322', ''].forEach((query) => {
 			cy.then(() => cy.request({url: acceptUrl(query), followRedirect: false, failOnStatusCode: false})).then((response) => {
 				expect(response.status, query || 'no id').to.be.oneOf([301, 302, 303]);
 				expect(response.headers.location).to.contain('/login');
