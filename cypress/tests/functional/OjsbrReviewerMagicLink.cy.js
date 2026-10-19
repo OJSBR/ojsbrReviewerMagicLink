@@ -168,6 +168,11 @@ describe('Reviewer link for 30 days plugin', function() {
 
 	it('Enables the plugin and offers a settings form for the journal', function() {
 		login(adminUser, adminPassword);
+		// The plugin only acts where the journal sends the one-click link.
+		journal().then((context) => {
+			accessKeysWere = !!context.reviewerAccessKeysEnabled;
+			setAccessKeys(true);
+		});
 		openPluginsTab();
 		enablePlugin(rowName);
 		openPluginSettings(rowName, settingsForm);
@@ -180,11 +185,6 @@ describe('Reviewer link for 30 days plugin', function() {
 		});
 		cy.get(settingsForm).then(($form) => {
 			settingsWere = settingsOf($form);
-		});
-		// The plugin only acts where the journal sends the one-click link.
-		journal().then((context) => {
-			accessKeysWere = !!context.reviewerAccessKeysEnabled;
-			setAccessKeys(true);
 		});
 	});
 
@@ -226,11 +226,8 @@ describe('Reviewer link for 30 days plugin', function() {
 	});
 
 	after(function() {
-		if (!settingsWere) {
-			return;
-		}
 		login(adminUser, adminPassword);
-		cy.then(() => saveSettings(settingsWere));
+		cy.then(() => (settingsWere && settingsAction ? saveSettings(settingsWere) : null));
 		cy.then(() => (accessKeysWere === null ? null : setAccessKeys(accessKeysWere)));
 	});
 });

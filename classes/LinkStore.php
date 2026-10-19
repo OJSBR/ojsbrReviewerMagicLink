@@ -19,8 +19,10 @@
 
 namespace APP\plugins\generic\ojsbrReviewerMagicLink\classes;
 
+use APP\plugins\generic\ojsbrReviewerMagicLink\classes\migration\install\SchemaMigration;
 use Carbon\Carbon;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Schema;
 
 class LinkStore
 {
@@ -35,6 +37,31 @@ class LinkStore
 
     /** Entries older than this are deleted from the record. */
     public const KEEP_USES_DAYS = 365;
+
+    /** Whether the tables were already checked in this process. */
+    private static bool $tablesChecked = false;
+
+    public function __construct()
+    {
+        self::ensureTables();
+    }
+
+    /**
+     * Creates the tables of the plugin when they are missing. The migration
+     * only runs when the plugin is installed through the application; a plugin
+     * folder copied by hand, or a database restored from a dump (PKP's
+     * continuous integration), would otherwise have none.
+     */
+    public static function ensureTables(): void
+    {
+        if (self::$tablesChecked) {
+            return;
+        }
+        self::$tablesChecked = true;
+        if (!Schema::hasTable(self::LINKS) || !Schema::hasTable(self::USES)) {
+            (new SchemaMigration())->up();
+        }
+    }
 
     /**
      * Keeps a copy of a reviewer link the first time its invitation is saved
