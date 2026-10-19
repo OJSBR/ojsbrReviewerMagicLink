@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: fr\n"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Lien d'évaluateur pendant 30 jours"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Garde le lien d'accès en un clic de l'évaluateur valide pendant 30 jours, avec des clics illimités, même après les rappels, et mène au formulaire de connexion au lieu d'une page d'erreur lorsqu'il ne peut plus être utilisé."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Votre lien d'accès a expiré. Connectez-vous avec votre nom d'utilisateur et votre mot de passe pour continuer."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Vous étiez connecté avec un autre compte. Connectez-vous avec le nom d'utilisateur et le mot de passe de l'évaluateur pour continuer."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Accéder à l'évaluation"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Cliquez sur le bouton ci-dessous pour ouvrir l'évaluation à laquelle vous avez été invité."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Accéder à l'évaluation"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Le lien en un clic des courriels de demande d'évaluation et de rappel reste valide pendant le nombre de jours ci-dessous, quel que soit le nombre d'ouvertures, même après un rappel. Lorsqu'il ne peut plus être utilisé, il mène au formulaire de connexion puis à l'évaluation, jamais à une page d'erreur."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Le lien en un clic est désactivé pour cette revue (Paramètres > Flux de travail > Évaluation). Le plugiciel ne fait rien tant qu'il n'est pas activé."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Validité"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Jours de validité de chaque lien"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Comptés à partir de l'envoi du courriel. Entre 1 et 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Saisissez un nombre de jours entre 1 et 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Qui entre sans mot de passe"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Le lien ne connecte que les personnes qui n'ont dans cette revue aucun autre rôle que ceux autorisés ci-dessous. Gestionnaires, rédacteurs, assistants et administrateurs du site arrivent toujours au formulaire de connexion."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Connecter automatiquement l'évaluateur avec le lien"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Aussi lorsque l'évaluateur est auteur dans cette revue"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Aussi lorsque l'évaluateur est lecteur dans cette revue"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Afficher une page avec le bouton « Accéder à l'évaluation » avant la connexion (protection supplémentaire contre les robots de messagerie)"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Dernières entrées avec le lien"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Requêtes de robots de messagerie ignorées (HEAD/OPTIONS) : {$requests}"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Date"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Utilisateur"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Évaluation"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Navigateur"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Aucune entrée avec le lien pour le moment."

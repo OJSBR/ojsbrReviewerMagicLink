@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: gl\n"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Ligazón de revisor por 30 días"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Mantén válida durante 30 días a ligazón de acceso cun clic do revisor, con clics ilimitados, tamén despois dos recordatorios, e leva ao formulario de inicio de sesión en vez dunha páxina de erro cando xa non se pode usar."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "A súa ligazón de acceso caducou. Inicie sesión co seu usuario e contrasinal para continuar."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Tiña a sesión iniciada con outra conta. Inicie sesión co usuario e o contrasinal do revisor para continuar."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Acceder á revisión"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Prema no botón de abaixo para abrir a revisión á que foi convidado."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Acceder á revisión"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "A ligazón dun clic dos correos de solicitude de revisión e de recordatorio segue sendo válida durante o número de días indicado abaixo, tantas veces como se abra, tamén despois dun recordatorio. Cando xa non se pode usar, leva ao formulario de inicio de sesión e de volta á revisión, nunca a unha páxina de erro."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "A ligazón dun clic está desactivada nesta revista (Configuración > Fluxo de traballo > Revisión). O complemento non fai nada ata que se active."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Validez"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Días de validez de cada ligazón"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Contados desde o envío do correo. Entre 1 e 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Indique un número de días entre 1 e 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Quen entra sen contrasinal"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "A ligazón só inicia a sesión de quen non ten nesta revista outro rol ca os permitidos abaixo. Xestores, editores, asistentes e administradores do sitio sempre van ao formulario de inicio de sesión."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Iniciar a sesión do revisor automaticamente coa ligazón"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Tamén cando o revisor é autor nesta revista"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Tamén cando o revisor é lector nesta revista"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Amosar unha páxina co botón \"Acceder á revisión\" antes de iniciar a sesión (protección adicional contra robots de correo)"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Últimas entradas coa ligazón"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Peticións de robots de correo ignoradas (HEAD/OPTIONS): {$requests}"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Data"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Usuario"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Revisión"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Navegador"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Aínda non hai entradas coa ligazón."

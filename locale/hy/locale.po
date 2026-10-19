@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: hy\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Գրախոսի հղում 30 օրով"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Գրախոսի մեկ սեղմումով մուտքի հղումը պահում է վավեր 30 օր՝ անսահմանափակ սեղմումներով, նաև հիշեցումներից հետո, և երբ այլևս չի կարող օգտագործվել, տանում է մուտքի ձևին՝ սխալի էջի փոխարեն։"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Ձեր մուտքի հղման ժամկետը լրացել է։ Շարունակելու համար մուտք գործեք Ձեր օգտանունով և գաղտնաբառով։"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Դուք մուտք էիք գործել այլ հաշվով։ Շարունակելու համար մուտք գործեք գրախոսի օգտանունով և գաղտնաբառով։"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Բացել գրախոսությունը"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Սեղմեք ստորև կոճակը՝ բացելու այն գրախոսությունը, որին հրավիրվել եք։"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Բացել գրախոսությունը"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Գրախոսության հարցման և հիշեցման նամակների մեկ սեղմման հղումը վավեր է մնում ստորև նշված օրերի ընթացքում՝ անկախ բացումների քանակից, նաև հիշեցումից հետո։ Երբ այլևս չի կարող օգտագործվել, տանում է մուտքի ձևին և հետ՝ գրախոսությանը, երբեք սխալի էջի։"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Մեկ սեղմման հղումն անջատված է այս ամսագրում (Կարգավորումներ > Աշխատանքային հոսք > Գրախոսություն)։ Փլագինը ոչինչ չի անում, մինչև այն միացվի։"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Վավերականություն"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Յուրաքանչյուր հղման վավերականության օրերը"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Հաշվվում է նամակն ուղարկելու պահից։ 1-ից 365։"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Մուտքագրեք օրերի քանակ 1-ից 365։"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Ով է մտնում առանց գաղտնաբառի"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Հղումը մուտք է բերում միայն նրանց, ովքեր այս ամսագրում չունեն ստորև թույլատրվածներից բացի այլ դեր։ Կառավարիչները, խմբագիրները, օգնականները և կայքի ադմինիստրատորները միշտ ստանում են մուտքի ձևը։"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Գրախոսին ավտոմատ մուտք բերել հղումով"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Նաև երբ գրախոսը այս ամսագրում հեղինակ է"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Նաև երբ գրախոսը այս ամսագրում ընթերցող է"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Մուտքից առաջ ցույց տալ \"Բացել գրախոսությունը\" կոճակով էջ (լրացուցիչ պաշտպանություն էլփոստի սկաներներից)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Վերջին մուտքերը հղումով"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Անտեսված էլփոստի սկաներների հարցումներ (HEAD/OPTIONS)՝ {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Ամսաթիվ"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Օգտատեր"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Գրախոսություն"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Դիտարկիչ"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Դեռ հղումով մուտք չկա։"

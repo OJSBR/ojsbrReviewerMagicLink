@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: eu\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Ebaluatzailearen esteka 30 egunez"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Ebaluatzailearen klik bakarreko sarbide-esteka 30 egunez baliozko mantentzen du, klik mugagabeekin, gogorarazpenen ondoren ere, eta saioa hasteko formulariora eramaten du errore-orri baten ordez, erabili ezin denean."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Zure sarbide-esteka iraungi da. Hasi saioa zure erabiltzaile-izen eta pasahitzarekin jarraitzeko."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Beste kontu batekin zeneukan saioa hasita. Hasi saioa ebaluatzailearen erabiltzaile-izen eta pasahitzarekin jarraitzeko."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Ireki ebaluazioa"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Egin klik beheko botoian gonbidatu zaituzten ebaluazioa irekitzeko."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Ireki ebaluazioa"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Ebaluazio-eskaera eta gogorarazpen mezuetako klik bakarreko esteka beheko egun kopuruan baliozkoa da, nahi adina aldiz irekita ere, gogorarazpen baten ondoren ere. Erabili ezin denean, saioa hasteko formulariora eta ebaluaziora eramaten du, inoiz ez errore-orri batera."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Klik bakarreko esteka desgaituta dago aldizkari honetan (Ezarpenak > Lan-fluxua > Ebaluazioa). Pluginak ez du ezer egiten gaitu arte."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Baliozkotasuna"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Esteka bakoitzaren baliozkotasun-egunak"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Mezua bidaltzen denetik kontatuta. 1 eta 365 artean."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Idatzi 1 eta 365 arteko egun kopurua."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Nor sartzen da pasahitzik gabe"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Estekak behean baimendutakoez gain aldizkari honetan beste rolik ez dutenei bakarrik hasten die saioa. Kudeatzaileek, editoreek, laguntzaileek eta guneko administratzaileek beti saioa hasteko formularioa jasotzen dute."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Hasi ebaluatzailearen saioa automatikoki estekarekin"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Baita ebaluatzailea aldizkari honetan egilea denean ere"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Baita ebaluatzailea aldizkari honetan irakurlea denean ere"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Erakutsi \"Ireki ebaluazioa\" botoia duen orri bat saioa hasi aurretik (posta-eskanerren aurkako babes gehigarria)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Estekaren bidezko azken sarrerak"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Ezikusi egindako posta-eskanerren eskaerak (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Data"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Erabiltzailea"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Ebaluazioa"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Nabigatzailea"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Oraindik ez dago estekaren bidezko sarrerarik."

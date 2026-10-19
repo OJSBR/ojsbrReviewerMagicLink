@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: el\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Σύνδεσμος αξιολογητή για 30 ημέρες"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Διατηρεί έγκυρο για 30 ημέρες τον σύνδεσμο πρόσβασης με ένα κλικ του αξιολογητή, με απεριόριστα κλικ, και μετά από υπενθυμίσεις, και οδηγεί στη φόρμα σύνδεσης αντί για σελίδα σφάλματος όταν δεν μπορεί πλέον να χρησιμοποιηθεί."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Ο σύνδεσμος πρόσβασής σας έληξε. Συνδεθείτε με το όνομα χρήστη και τον κωδικό σας για να συνεχίσετε."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Είχατε συνδεθεί με άλλον λογαριασμό. Συνδεθείτε με το όνομα χρήστη και τον κωδικό του αξιολογητή για να συνεχίσετε."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Άνοιγμα της αξιολόγησης"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Πατήστε το παρακάτω κουμπί για να ανοίξετε την αξιολόγηση στην οποία προσκληθήκατε."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Άνοιγμα της αξιολόγησης"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Ο σύνδεσμος ενός κλικ στα μηνύματα αιτήματος αξιολόγησης και υπενθύμισης παραμένει έγκυρος για τον αριθμό ημερών παρακάτω, όσες φορές κι αν ανοιχτεί, και μετά από υπενθύμιση. Όταν δεν μπορεί πλέον να χρησιμοποιηθεί, οδηγεί στη φόρμα σύνδεσης και πίσω στην αξιολόγηση, ποτέ σε σελίδα σφάλματος."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Ο σύνδεσμος ενός κλικ είναι απενεργοποιημένος για αυτό το περιοδικό (Ρυθμίσεις > Ροή εργασιών > Αξιολόγηση). Το πρόσθετο δεν κάνει τίποτα μέχρι να ενεργοποιηθεί."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Ισχύς"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Ημέρες ισχύος κάθε συνδέσμου"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Μετρώνται από την αποστολή του μηνύματος. Από 1 έως 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Εισαγάγετε αριθμό ημερών από 1 έως 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Ποιος μπαίνει χωρίς κωδικό"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Ο σύνδεσμος συνδέει μόνο όσους δεν έχουν σε αυτό το περιοδικό άλλον ρόλο πέρα από τους επιτρεπόμενους παρακάτω. Διαχειριστές, επιμελητές, βοηθοί και διαχειριστές ιστότοπου λαμβάνουν πάντα τη φόρμα σύνδεσης."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Αυτόματη σύνδεση του αξιολογητή με τον σύνδεσμο"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Και όταν ο αξιολογητής είναι συγγραφέας σε αυτό το περιοδικό"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Και όταν ο αξιολογητής είναι αναγνώστης σε αυτό το περιοδικό"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Εμφάνιση σελίδας με το κουμπί \"Άνοιγμα της αξιολόγησης\" πριν από τη σύνδεση (πρόσθετη προστασία από σαρωτές email)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Τελευταίες είσοδοι με τον σύνδεσμο"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Αιτήματα σαρωτών email που αγνοήθηκαν (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Ημερομηνία"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Χρήστης"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Αξιολόγηση"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Πρόγραμμα περιήγησης"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Καμία είσοδος με τον σύνδεσμο ακόμη."

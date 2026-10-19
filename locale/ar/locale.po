@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ar\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "رابط المحكّم لمدة 30 يومًا"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "يُبقي رابط الدخول بنقرة واحدة للمحكّم صالحًا لمدة 30 يومًا مع نقرات غير محدودة، حتى بعد التذكيرات، ويقود إلى نموذج تسجيل الدخول بدلًا من صفحة خطأ عندما لا يعود صالحًا للاستخدام."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "انتهت صلاحية رابط الدخول. سجّل الدخول باسم المستخدم وكلمة المرور للمتابعة."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "كنت مسجّلًا الدخول بحساب آخر. سجّل الدخول باسم المستخدم وكلمة المرور الخاصة بالمحكّم للمتابعة."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "فتح التحكيم"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "انقر الزر أدناه لفتح التحكيم الذي دُعيت إليه."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "فتح التحكيم"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "يبقى رابط النقرة الواحدة في رسائل طلب التحكيم والتذكير صالحًا لعدد الأيام أدناه مهما فُتح، حتى بعد التذكير. وعندما لا يعود صالحًا يقود إلى نموذج تسجيل الدخول ثم إلى التحكيم، ولا يقود أبدًا إلى صفحة خطأ."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "رابط النقرة الواحدة معطّل في هذه المجلة (الإعدادات > سير العمل > التحكيم). لا تفعل الإضافة شيئًا حتى يُفعَّل."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "الصلاحية"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "عدد أيام صلاحية كل رابط"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "تُحسب من لحظة إرسال الرسالة. بين 1 و365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "أدخل عدد أيام بين 1 و365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "من يدخل دون كلمة مرور"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "لا يسجّل الرابط دخول إلا من ليس له في هذه المجلة أدوار غير المسموح بها أدناه. المديرون والمحررون والمساعدون ومديرو الموقع يصلون دائمًا إلى نموذج تسجيل الدخول."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "تسجيل دخول المحكّم تلقائيًا بالرابط"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "وأيضًا عندما يكون المحكّم مؤلفًا في هذه المجلة"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "وأيضًا عندما يكون المحكّم قارئًا في هذه المجلة"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "عرض صفحة بزر \"فتح التحكيم\" قبل تسجيل الدخول (حماية إضافية من برامج فحص البريد)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "آخر الدخولات بالرابط"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "طلبات برامج فحص البريد المتجاهَلة (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "التاريخ"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "المستخدم"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "التحكيم"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "المتصفح"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "لا يوجد دخول بالرابط حتى الآن."

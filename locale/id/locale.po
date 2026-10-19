@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: id\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Tautan Mitra Bestari 30 Hari"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Menjaga tautan akses sekali klik mitra bestari tetap berlaku selama 30 hari dengan klik tanpa batas, juga setelah pengingat, dan mengarah ke formulir masuk alih-alih halaman galat saat tautan tidak dapat digunakan lagi."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Tautan akses Anda telah kedaluwarsa. Masuk dengan nama pengguna dan kata sandi Anda untuk melanjutkan."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Anda masuk dengan akun lain. Masuk dengan nama pengguna dan kata sandi mitra bestari untuk melanjutkan."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Buka telaah"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Klik tombol di bawah untuk membuka telaah yang Anda diundang."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Buka telaah"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Tautan sekali klik di email permintaan telaah dan pengingat tetap berlaku selama jumlah hari di bawah, berapa kali pun dibuka, juga setelah pengingat. Saat tidak dapat digunakan lagi, tautan mengarah ke formulir masuk lalu ke telaah, tidak pernah ke halaman galat."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Tautan sekali klik dinonaktifkan untuk jurnal ini (Pengaturan > Alur Kerja > Telaah). Plugin tidak melakukan apa pun sampai diaktifkan."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Masa berlaku"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Hari masa berlaku setiap tautan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Dihitung sejak email dikirim. Antara 1 dan 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Masukkan jumlah hari antara 1 dan 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Siapa yang masuk tanpa kata sandi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Tautan hanya memasukkan orang yang tidak memiliki peran lain di jurnal ini selain yang diizinkan di bawah. Manajer, editor, asisten, dan administrator situs selalu mendapat formulir masuk."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Masukkan mitra bestari secara otomatis dengan tautan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Juga saat mitra bestari adalah penulis di jurnal ini"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Juga saat mitra bestari adalah pembaca di jurnal ini"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Tampilkan halaman dengan tombol \"Buka telaah\" sebelum masuk (perlindungan tambahan dari pemindai email)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Akses terakhir melalui tautan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Permintaan pemindai email yang diabaikan (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Tanggal"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Pengguna"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Telaah"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Peramban"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Belum ada akses melalui tautan."

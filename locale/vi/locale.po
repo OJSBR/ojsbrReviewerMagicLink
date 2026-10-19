@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: vi\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Liên kết người phản biện 30 ngày"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Giữ liên kết truy cập một lần nhấp của người phản biện có hiệu lực 30 ngày với số lần nhấp không giới hạn, kể cả sau lời nhắc, và dẫn đến biểu mẫu đăng nhập thay vì trang lỗi khi không còn dùng được."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Liên kết truy cập của bạn đã hết hạn. Hãy đăng nhập bằng tên người dùng và mật khẩu để tiếp tục."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Bạn đang đăng nhập bằng tài khoản khác. Hãy đăng nhập bằng tên người dùng và mật khẩu của người phản biện để tiếp tục."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Mở bài phản biện"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Nhấp vào nút bên dưới để mở bài phản biện mà bạn được mời."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Mở bài phản biện"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Liên kết một lần nhấp trong email yêu cầu phản biện và nhắc nhở vẫn có hiệu lực trong số ngày bên dưới, dù được mở bao nhiêu lần, kể cả sau lời nhắc. Khi không còn dùng được, liên kết dẫn đến biểu mẫu đăng nhập rồi trở lại bài phản biện, không bao giờ đến trang lỗi."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Liên kết một lần nhấp đang tắt cho tạp chí này (Cài đặt > Quy trình > Phản biện). Plugin không làm gì cho đến khi được bật."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Hiệu lực"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Số ngày hiệu lực của mỗi liên kết"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Tính từ lúc gửi email. Từ 1 đến 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Nhập số ngày từ 1 đến 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Ai được vào không cần mật khẩu"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Liên kết chỉ đăng nhập cho người không có vai trò nào khác trong tạp chí này ngoài các vai trò được phép bên dưới. Quản lý, biên tập viên, trợ lý và quản trị viên trang luôn nhận biểu mẫu đăng nhập."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Tự động đăng nhập người phản biện bằng liên kết"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Cả khi người phản biện là tác giả trong tạp chí này"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Cả khi người phản biện là độc giả trong tạp chí này"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Hiển thị trang có nút \"Mở bài phản biện\" trước khi đăng nhập (bảo vệ thêm trước trình quét email)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Lần truy cập gần nhất qua liên kết"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Yêu cầu của trình quét email đã bỏ qua (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Ngày"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Người dùng"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Phản biện"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Trình duyệt"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Chưa có lần truy cập nào qua liên kết."

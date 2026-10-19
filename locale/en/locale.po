@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: en\n"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Reviewer Link for 30 Days"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Keeps the one-click reviewer link valid for 30 days with unlimited clicks, also after reminders, and leads to the login form instead of an error page when it can no longer be used."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Your access link has expired. Sign in with your username and password to continue."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "You were signed in with another account. Sign in with the reviewer's username and password to continue."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Open the review"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Click the button below to open the review you were invited to."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Open the review"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "The one-click link in review request and reminder e-mails stays valid for the number of days below, however many times it is opened, also after a reminder. When it can no longer be used, it leads to the login form and back to the review, never to an error page."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "The one-click link is switched off for this journal (Settings > Workflow > Review). The plugin does nothing until it is switched on."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Validity"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Days each link stays valid"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Counted from the moment the e-mail is sent. Between 1 and 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Enter a number of days between 1 and 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Who enters without a password"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "The link only signs in people who hold no other role in this journal than the ones allowed below. Managers, editors, assistants and site administrators always get the login form."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Sign the reviewer in automatically with the link"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Also when the reviewer is an author in this journal"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Also when the reviewer is a reader in this journal"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Show a page with an \"Open the review\" button before signing in (extra protection against mail scanners)"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Latest entries with the link"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Mail scanner requests ignored (HEAD/OPTIONS): {$requests}"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Date"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "User"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Review"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Browser"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "No entry with the link yet."

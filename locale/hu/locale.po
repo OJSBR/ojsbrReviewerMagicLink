@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: hu\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Bírálói link 30 napra"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "A bíráló egykattintásos belépési linkjét 30 napig érvényesen tartja korlátlan kattintással, emlékeztetők után is, és hibaoldal helyett a bejelentkezési űrlapra vezet, ha már nem használható."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "A belépési linkje lejárt. A folytatáshoz jelentkezzen be felhasználónevével és jelszavával."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Másik fiókkal volt bejelentkezve. A folytatáshoz jelentkezzen be a bíráló felhasználónevével és jelszavával."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "A bírálat megnyitása"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Kattintson az alábbi gombra a bírálat megnyitásához, amelyre meghívták."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "A bírálat megnyitása"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "A bírálati felkérő és emlékeztető e-mailek egykattintásos linkje az alább megadott napig érvényes marad, akárhányszor nyitják meg, emlékeztető után is. Ha már nem használható, a bejelentkezési űrlapra, majd a bírálathoz vezet, soha nem hibaoldalra."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Az egykattintásos link ki van kapcsolva ennél a folyóiratnál (Beállítások > Munkafolyamat > Bírálat). A bővítmény nem csinál semmit, amíg be nem kapcsolják."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Érvényesség"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Az egyes linkek érvényességi napjai"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Az e-mail elküldésétől számítva. 1 és 365 között."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Adjon meg 1 és 365 közötti napszámot."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Ki léphet be jelszó nélkül"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "A link csak azokat lépteti be, akiknek ebben a folyóiratban nincs más szerepkörük az alább engedélyezetteken kívül. Kezelők, szerkesztők, asszisztensek és oldaladminisztrátorok mindig a bejelentkezési űrlapot kapják."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "A bíráló automatikus beléptetése a linkkel"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Akkor is, ha a bíráló szerző ebben a folyóiratban"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Akkor is, ha a bíráló olvasó ebben a folyóiratban"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Bejelentkezés előtt egy \"A bírálat megnyitása\" gombos oldal mutatása (további védelem az e-mail szkennerek ellen)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Legutóbbi belépések a linkkel"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Figyelmen kívül hagyott e-mail szkenner kérések (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Dátum"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Felhasználó"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Bírálat"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Böngésző"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Még nincs belépés a linkkel."

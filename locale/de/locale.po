@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: de\n"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Gutachterlink für 30 Tage"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Hält den Ein-Klick-Zugangslink für Gutachter/innen 30 Tage lang gültig, bei beliebig vielen Klicks, auch nach Erinnerungen, und führt zum Anmeldeformular statt zu einer Fehlerseite, wenn er nicht mehr verwendet werden kann."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Ihr Zugangslink ist abgelaufen. Melden Sie sich mit Benutzername und Passwort an, um fortzufahren."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Sie waren mit einem anderen Konto angemeldet. Melden Sie sich mit Benutzername und Passwort der Gutachterin bzw. des Gutachters an, um fortzufahren."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Zum Gutachten"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Klicken Sie auf die Schaltfläche unten, um das Gutachten zu öffnen, zu dem Sie eingeladen wurden."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Zum Gutachten"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Der Ein-Klick-Link in den E-Mails mit Begutachtungsanfrage und Erinnerung bleibt für die unten angegebene Anzahl von Tagen gültig, egal wie oft er geöffnet wird, auch nach einer Erinnerung. Kann er nicht mehr verwendet werden, führt er zum Anmeldeformular und danach zum Gutachten, nie zu einer Fehlerseite."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Der Ein-Klick-Link ist für diese Zeitschrift ausgeschaltet (Einstellungen > Arbeitsablauf > Begutachtung). Das Plugin tut nichts, bis er eingeschaltet wird."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Gültigkeit"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Gültigkeitsdauer jedes Links in Tagen"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Gezählt ab dem Versand der E-Mail. Zwischen 1 und 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Geben Sie eine Anzahl von Tagen zwischen 1 und 365 ein."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Wer ohne Passwort hineinkommt"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Der Link meldet nur Personen an, die in dieser Zeitschrift keine anderen Rollen als die unten erlaubten haben. Zeitschriftenverwalter/innen, Redakteur/innen, Assistent/innen und Website-Administrator/innen erhalten immer das Anmeldeformular."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Gutachter/in mit dem Link automatisch anmelden"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Auch wenn die Person in dieser Zeitschrift Autor/in ist"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Auch wenn die Person in dieser Zeitschrift Leser/in ist"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Vor der Anmeldung eine Seite mit der Schaltfläche „Zum Gutachten“ zeigen (zusätzlicher Schutz vor E-Mail-Scannern)"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Letzte Zugriffe über den Link"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Ignorierte Anfragen von E-Mail-Scannern (HEAD/OPTIONS): {$requests}"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Datum"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Benutzer/in"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Gutachten"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Browser"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Noch kein Zugriff über den Link."

@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: pl\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Link recenzenta na 30 dni"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Utrzymuje link dostępu jednym kliknięciem dla recenzenta ważny przez 30 dni, z nieograniczoną liczbą kliknięć, także po przypomnieniach, i prowadzi do formularza logowania zamiast do strony błędu, gdy nie można go już użyć."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Twój link dostępu wygasł. Zaloguj się nazwą użytkownika i hasłem, aby kontynuować."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Byłeś zalogowany na inne konto. Zaloguj się nazwą użytkownika i hasłem recenzenta, aby kontynuować."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Otwórz recenzję"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Kliknij przycisk poniżej, aby otworzyć recenzję, do której zostałeś zaproszony."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Otwórz recenzję"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Link jednym kliknięciem w e-mailach z prośbą o recenzję i przypomnieniem pozostaje ważny przez podaną niżej liczbę dni, niezależnie od liczby otwarć, także po przypomnieniu. Gdy nie można go już użyć, prowadzi do formularza logowania i z powrotem do recenzji, nigdy do strony błędu."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Link jednym kliknięciem jest wyłączony dla tego czasopisma (Ustawienia > Obieg pracy > Recenzja). Wtyczka nic nie robi, dopóki nie zostanie włączony."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Ważność"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Liczba dni ważności każdego linku"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Liczone od wysłania e-maila. Od 1 do 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Podaj liczbę dni od 1 do 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Kto wchodzi bez hasła"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Link loguje tylko osoby, które w tym czasopiśmie nie mają innych ról poza dozwolonymi poniżej. Menedżerowie, redaktorzy, asystenci i administratorzy serwisu zawsze otrzymują formularz logowania."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Automatycznie loguj recenzenta linkiem"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Także gdy recenzent jest autorem w tym czasopiśmie"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Także gdy recenzent jest czytelnikiem w tym czasopiśmie"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Pokaż przed logowaniem stronę z przyciskiem \"Otwórz recenzję\" (dodatkowa ochrona przed skanerami poczty)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Ostatnie wejścia przez link"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Zignorowane żądania skanerów poczty (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Data"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Użytkownik"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Recenzja"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Przeglądarka"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Jeszcze nie było wejść przez link."

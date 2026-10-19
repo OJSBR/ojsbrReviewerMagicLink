@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: nl\n"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Reviewerlink voor 30 dagen"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Houdt de link met één klik voor reviewers 30 dagen geldig, met onbeperkt klikken, ook na herinneringen, en leidt naar het aanmeldformulier in plaats van een foutpagina wanneer hij niet meer gebruikt kan worden."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Uw toegangslink is verlopen. Meld u aan met uw gebruikersnaam en wachtwoord om verder te gaan."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "U was aangemeld met een ander account. Meld u aan met de gebruikersnaam en het wachtwoord van de reviewer om verder te gaan."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Naar de review"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Klik op de knop hieronder om de review te openen waarvoor u bent uitgenodigd."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Naar de review"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "De link met één klik in de e-mails met reviewverzoek en herinnering blijft het aantal dagen hieronder geldig, hoe vaak hij ook wordt geopend, ook na een herinnering. Als hij niet meer gebruikt kan worden, leidt hij naar het aanmeldformulier en daarna naar de review, nooit naar een foutpagina."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "De link met één klik is uitgeschakeld voor dit tijdschrift (Instellingen > Workflow > Review). De plugin doet niets tot hij is ingeschakeld."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Geldigheid"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Dagen dat elke link geldig blijft"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Geteld vanaf het verzenden van de e-mail. Tussen 1 en 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Voer een aantal dagen in tussen 1 en 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Wie zonder wachtwoord binnenkomt"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "De link meldt alleen mensen aan die in dit tijdschrift geen andere rol hebben dan de hieronder toegestane. Beheerders, redacteuren, assistenten en sitebeheerders krijgen altijd het aanmeldformulier."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "De reviewer automatisch aanmelden met de link"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Ook als de reviewer auteur is in dit tijdschrift"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Ook als de reviewer lezer is in dit tijdschrift"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Vóór het aanmelden een pagina tonen met de knop \"Naar de review\" (extra bescherming tegen e-mailscanners)"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Laatste toegang via de link"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Genegeerde verzoeken van e-mailscanners (HEAD/OPTIONS): {$requests}"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Datum"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Gebruiker"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Review"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Browser"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Nog geen toegang via de link."

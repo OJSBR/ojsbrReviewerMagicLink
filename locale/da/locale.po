@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: da\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Bedømmerlink i 30 dage"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Holder bedømmerens et-klik-adgangslink gyldigt i 30 dage med ubegrænsede klik, også efter påmindelser, og fører til loginformularen i stedet for en fejlside, når det ikke længere kan bruges."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Dit adgangslink er udløbet. Log ind med dit brugernavn og din adgangskode for at fortsætte."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Du var logget ind med en anden konto. Log ind med bedømmerens brugernavn og adgangskode for at fortsætte."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Åbn bedømmelsen"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Klik på knappen nedenfor for at åbne den bedømmelse, du er inviteret til."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Åbn bedømmelsen"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Et-klik-linket i e-mails med anmodning om bedømmelse og påmindelser forbliver gyldigt i det antal dage, der er angivet nedenfor, uanset hvor mange gange det åbnes, også efter en påmindelse. Når det ikke længere kan bruges, fører det til loginformularen og tilbage til bedømmelsen, aldrig til en fejlside."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Et-klik-linket er slået fra for dette tidsskrift (Indstillinger > Arbejdsgang > Bedømmelse). Pluginnet gør intet, før det slås til."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Gyldighed"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Dage hvert link er gyldigt"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Regnet fra afsendelsen af e-mailen. Mellem 1 og 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Angiv et antal dage mellem 1 og 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Hvem kommer ind uden adgangskode"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Linket logger kun personer ind, der ikke har andre roller i dette tidsskrift end dem, der er tilladt nedenfor. Ledere, redaktører, assistenter og webstedsadministratorer får altid loginformularen."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Log bedømmeren ind automatisk med linket"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Også når bedømmeren er forfatter i dette tidsskrift"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Også når bedømmeren er læser i dette tidsskrift"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Vis en side med knappen \"Åbn bedømmelsen\" før login (ekstra beskyttelse mod mailscannere)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Seneste adgange via linket"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Ignorerede forespørgsler fra mailscannere (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Dato"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Bruger"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Bedømmelse"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Browser"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Ingen adgang via linket endnu."

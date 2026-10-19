@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ca\n"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Enllaç de revisor per 30 dies"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Manté vàlid durant 30 dies l'enllaç d'accés amb un clic del revisor, amb clics il·limitats, també després dels recordatoris, i porta al formulari d'inici de sessió en lloc d'una pàgina d'error quan ja no es pot fer servir."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "El vostre enllaç d'accés ha caducat. Inicieu la sessió amb el vostre usuari i contrasenya per continuar."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Teníeu la sessió iniciada amb un altre compte. Inicieu la sessió amb l'usuari i la contrasenya del revisor per continuar."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Accedir a la revisió"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Feu clic al botó de sota per obrir la revisió a la qual heu estat convidat."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Accedir a la revisió"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "L'enllaç d'un clic dels correus de sol·licitud de revisió i de recordatori continua sent vàlid durant el nombre de dies indicat a sota, tantes vegades com s'obri, també després d'un recordatori. Quan ja no es pot fer servir, porta al formulari d'inici de sessió i de tornada a la revisió, mai a una pàgina d'error."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "L'enllaç d'un clic està desactivat en aquesta revista (Configuració > Flux de treball > Revisió). El mòdul no fa res fins que s'activi."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Validesa"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Dies de validesa de cada enllaç"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Comptats des de l'enviament del correu. Entre 1 i 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Indiqueu un nombre de dies entre 1 i 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Qui entra sense contrasenya"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "L'enllaç només inicia la sessió de qui no té en aquesta revista cap altre rol que els permesos a sota. Gestors, editors, assistents i administradors del lloc sempre van al formulari d'inici de sessió."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Iniciar la sessió del revisor automàticament amb l'enllaç"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "També quan el revisor és autor en aquesta revista"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "També quan el revisor és lector en aquesta revista"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Mostrar una pàgina amb el botó \"Accedir a la revisió\" abans d'iniciar la sessió (protecció addicional contra robots de correu)"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Últimes entrades amb l'enllaç"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Peticions de robots de correu ignorades (HEAD/OPTIONS): {$requests}"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Data"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Usuari"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Revisió"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Navegador"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Encara no hi ha cap entrada amb l'enllaç."

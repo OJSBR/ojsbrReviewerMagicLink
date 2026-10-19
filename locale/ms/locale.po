@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ms\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Pautan Pewasit 30 Hari"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Mengekalkan pautan akses satu klik pewasit sah selama 30 hari dengan klik tanpa had, juga selepas peringatan, dan membawa ke borang log masuk dan bukannya halaman ralat apabila tidak boleh digunakan lagi."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Pautan akses anda telah tamat tempoh. Log masuk dengan nama pengguna dan kata laluan anda untuk meneruskan."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Anda telah log masuk dengan akaun lain. Log masuk dengan nama pengguna dan kata laluan pewasit untuk meneruskan."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Buka wasitan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Klik butang di bawah untuk membuka wasitan yang anda dijemput."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Buka wasitan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Pautan satu klik dalam e-mel permintaan wasitan dan peringatan kekal sah untuk bilangan hari di bawah, berapa kali pun dibuka, juga selepas peringatan. Apabila tidak boleh digunakan lagi, ia membawa ke borang log masuk dan kembali ke wasitan, tidak pernah ke halaman ralat."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Pautan satu klik dimatikan untuk jurnal ini (Tetapan > Aliran Kerja > Wasitan). Plugin tidak melakukan apa-apa sehingga ia dihidupkan."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Tempoh sah"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Hari setiap pautan kekal sah"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Dikira dari masa e-mel dihantar. Antara 1 dan 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Masukkan bilangan hari antara 1 dan 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Siapa masuk tanpa kata laluan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Pautan hanya melog masuk mereka yang tiada peranan lain dalam jurnal ini selain yang dibenarkan di bawah. Pengurus, editor, pembantu dan pentadbir laman sentiasa mendapat borang log masuk."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Log masuk pewasit secara automatik dengan pautan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Juga apabila pewasit ialah pengarang dalam jurnal ini"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Juga apabila pewasit ialah pembaca dalam jurnal ini"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Tunjukkan halaman dengan butang \"Buka wasitan\" sebelum log masuk (perlindungan tambahan daripada pengimbas e-mel)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Akses terkini melalui pautan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Permintaan pengimbas e-mel yang diabaikan (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Tarikh"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Pengguna"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Wasitan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Pelayar"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Belum ada akses melalui pautan."

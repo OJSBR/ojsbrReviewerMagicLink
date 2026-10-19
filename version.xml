@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * version.xml
+  *
+  * Copyright (c) 2026 OJSBR (https://ojsbr.com)
+  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+  *
+  * Keeps the one-click link sent to reviewers working for 30 days, however
+  * many times it is opened, also after reminders, and leads to the login form
+  * instead of an error once it no longer can.
+  *
+  * Plugin version information.
+  -->
+<version>
+	<application>ojsbrReviewerMagicLink</application>
+	<type>plugins.generic</type>
+	<release>1.0.0.0</release>
+	<date>2026-10-19</date>
+	<lazy-load>1</lazy-load>
+	<class>OjsbrReviewerMagicLinkPlugin</class>
+</version>

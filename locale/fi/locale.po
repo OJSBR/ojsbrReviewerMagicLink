@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: fi\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Arvioijan linkki 30 päiväksi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Pitää arvioijan yhden napsautuksen kirjautumislinkin voimassa 30 päivää rajattomin napsautuksin, myös muistutusten jälkeen, ja vie kirjautumislomakkeeseen virhesivun sijaan, kun linkkiä ei enää voi käyttää."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Kirjautumislinkkisi on vanhentunut. Jatka kirjautumalla käyttäjätunnuksellasi ja salasanallasi."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Olit kirjautuneena toisella tilillä. Jatka kirjautumalla arvioijan käyttäjätunnuksella ja salasanalla."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Avaa arviointi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Avaa arviointi, johon sinut on kutsuttu, napsauttamalla alla olevaa painiketta."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Avaa arviointi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Arviointipyyntö- ja muistutusviestien yhden napsautuksen linkki on voimassa alla mainitun määrän päiviä riippumatta avauskerroista, myös muistutuksen jälkeen. Kun sitä ei enää voi käyttää, se vie kirjautumislomakkeeseen ja takaisin arviointiin, ei koskaan virhesivulle."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Yhden napsautuksen linkki on pois käytöstä tässä lehdessä (Asetukset > Työnkulku > Arviointi). Lisäosa ei tee mitään ennen kuin se otetaan käyttöön."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Voimassaolo"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Kunkin linkin voimassaolopäivät"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Lasketaan viestin lähettämisestä. 1–365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Anna päivien määrä väliltä 1–365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Kuka pääsee ilman salasanaa"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Linkki kirjaa sisään vain henkilöt, joilla ei ole tässä lehdessä muita rooleja kuin alla sallitut. Hallinnoijat, toimittajat, avustajat ja sivuston ylläpitäjät saavat aina kirjautumislomakkeen."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Kirjaa arvioija sisään automaattisesti linkillä"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Myös kun arvioija on tämän lehden kirjoittaja"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Myös kun arvioija on tämän lehden lukija"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Näytä ennen kirjautumista sivu, jossa on painike \"Avaa arviointi\" (lisäsuoja sähköpostiskannereita vastaan)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Viimeisimmät sisäänkirjautumiset linkillä"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Ohitetut sähköpostiskannerien pyynnöt (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Päivämäärä"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Käyttäjä"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Arviointi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Selain"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Ei vielä sisäänkirjautumisia linkillä."

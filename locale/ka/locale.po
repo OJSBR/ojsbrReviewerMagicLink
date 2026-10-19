@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ka\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "რეცენზენტის ბმული 30 დღით"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "რეცენზენტის ერთი დაწკაპუნებით შესვლის ბმულს 30 დღით ინახავს მოქმედს, შეუზღუდავი დაწკაპუნებით, შეხსენებების შემდეგაც, და როცა ვეღარ გამოიყენება, შეცდომის გვერდის ნაცვლად შესვლის ფორმაზე მიჰყავს."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "თქვენს შესვლის ბმულს ვადა გაუვიდა. გასაგრძელებლად შედით თქვენი მომხმარებლის სახელით და პაროლით."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "სხვა ანგარიშით იყავით შესული. გასაგრძელებლად შედით რეცენზენტის მომხმარებლის სახელით და პაროლით."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "რეცენზიის გახსნა"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "დააწკაპუნეთ ქვემოთ ღილაკზე იმ რეცენზიის გასახსნელად, რომელზეც მოგიწვიეს."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "რეცენზიის გახსნა"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "რეცენზიის მოთხოვნისა და შეხსენების წერილების ერთი დაწკაპუნების ბმული მოქმედებს ქვემოთ მითითებული დღეების განმავლობაში, რამდენჯერაც არ უნდა გაიხსნას, შეხსენების შემდეგაც. როცა ვეღარ გამოიყენება, მიჰყავს შესვლის ფორმაზე და შემდეგ რეცენზიაზე, არასოდეს შეცდომის გვერდზე."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "ერთი დაწკაპუნების ბმული ამ ჟურნალში გამორთულია (პარამეტრები > სამუშაო პროცესი > რეცენზირება). დანამატი არაფერს აკეთებს, სანამ არ ჩაირთვება."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "მოქმედების ვადა"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "თითოეული ბმულის მოქმედების დღეები"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "ითვლება წერილის გაგზავნიდან. 1-დან 365-მდე."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "შეიყვანეთ დღეების რაოდენობა 1-დან 365-მდე."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "ვინ შედის პაროლის გარეშე"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "ბმული შეჰყავს მხოლოდ მათ, ვისაც ამ ჟურნალში ქვემოთ დაშვებულის გარდა სხვა როლი არ აქვს. მენეჯერები, რედაქტორები, ასისტენტები და საიტის ადმინისტრატორები ყოველთვის შესვლის ფორმას იღებენ."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "რეცენზენტის ავტომატური შეყვანა ბმულით"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "ასევე, როცა რეცენზენტი ამ ჟურნალის ავტორია"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "ასევე, როცა რეცენზენტი ამ ჟურნალის მკითხველია"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "შესვლამდე გვერდის ჩვენება ღილაკით \"რეცენზიის გახსნა\" (დამატებითი დაცვა ელფოსტის სკანერებისგან)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "ბოლო შესვლები ბმულით"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "იგნორირებული ელფოსტის სკანერების მოთხოვნები (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "თარიღი"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "მომხმარებელი"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "რეცენზია"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "ბრაუზერი"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "ბმულით შესვლა ჯერ არ ყოფილა."

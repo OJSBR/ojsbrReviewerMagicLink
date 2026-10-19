@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: fa\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "پیوند داور برای ۳۰ روز"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "پیوند ورود با یک کلیک داور را ۳۰ روز با کلیک نامحدود، حتی پس از یادآوری‌ها، معتبر نگه می‌دارد و وقتی دیگر قابل استفاده نیست به‌جای صفحهٔ خطا به فرم ورود می‌برد."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "پیوند دسترسی شما منقضی شده است. برای ادامه با نام کاربری و گذرواژهٔ خود وارد شوید."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "با حساب دیگری وارد شده بودید. برای ادامه با نام کاربری و گذرواژهٔ داور وارد شوید."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "باز کردن داوری"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "برای باز کردن داوری‌ای که به آن دعوت شده‌اید روی دکمهٔ زیر کلیک کنید."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "باز کردن داوری"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "پیوند یک‌کلیکی در ایمیل‌های درخواست داوری و یادآوری به تعداد روزهای زیر معتبر می‌ماند، هر چند بار که باز شود، حتی پس از یادآوری. وقتی دیگر قابل استفاده نباشد، به فرم ورود و سپس به داوری می‌برد، هرگز به صفحهٔ خطا."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "پیوند یک‌کلیکی در این مجله خاموش است (تنظیمات > گردش کار > داوری). افزونه تا روشن شدن آن کاری نمی‌کند."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "اعتبار"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "روزهای اعتبار هر پیوند"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "از زمان ارسال ایمیل شمرده می‌شود. بین ۱ و ۳۶۵."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "تعداد روزی بین ۱ و ۳۶۵ وارد کنید."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "چه کسی بدون گذرواژه وارد می‌شود"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "پیوند فقط کسانی را وارد می‌کند که در این مجله نقشی جز نقش‌های مجاز زیر ندارند. مدیران، ویراستاران، دستیاران و مدیران سایت همیشه به فرم ورود می‌روند."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "ورود خودکار داور با پیوند"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "همچنین وقتی داور در این مجله نویسنده است"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "همچنین وقتی داور در این مجله خواننده است"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "نمایش صفحه‌ای با دکمهٔ \"باز کردن داوری\" پیش از ورود (حفاظت بیشتر در برابر اسکنرهای ایمیل)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "آخرین ورودها با پیوند"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "درخواست‌های نادیده‌گرفتهٔ اسکنرهای ایمیل (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "تاریخ"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "کاربر"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "داوری"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "مرورگر"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "هنوز ورودی با پیوند نیست."

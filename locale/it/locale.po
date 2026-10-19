@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: it\n"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Link del revisore per 30 giorni"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Mantiene valido per 30 giorni il link di accesso con un clic del revisore, con clic illimitati, anche dopo i promemoria, e porta al modulo di accesso invece che a una pagina di errore quando non può più essere usato."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Il tuo link di accesso è scaduto. Accedi con nome utente e password per continuare."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Eri collegato con un altro account. Accedi con il nome utente e la password del revisore per continuare."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Apri la revisione"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Fai clic sul pulsante qui sotto per aprire la revisione a cui sei stato invitato."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Apri la revisione"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Il link con un clic delle email di richiesta di revisione e di promemoria resta valido per il numero di giorni indicato qui sotto, quante volte venga aperto, anche dopo un promemoria. Quando non può più essere usato, porta al modulo di accesso e poi alla revisione, mai a una pagina di errore."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Il link con un clic è disattivato per questa rivista (Impostazioni > Flusso di lavoro > Revisione). Il plugin non fa nulla finché non viene attivato."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Validità"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Giorni di validità di ogni link"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Contati dall'invio dell'email. Tra 1 e 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Inserisci un numero di giorni tra 1 e 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Chi entra senza password"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Il link fa accedere solo chi non ha in questa rivista altri ruoli oltre a quelli consentiti qui sotto. Manager, editor, assistenti e amministratori del sito vanno sempre al modulo di accesso."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Fai accedere automaticamente il revisore con il link"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Anche quando il revisore è autore in questa rivista"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Anche quando il revisore è lettore in questa rivista"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Mostra una pagina con il pulsante \"Apri la revisione\" prima dell'accesso (protezione aggiuntiva contro i robot di posta)"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Ultimi accessi con il link"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Richieste di robot di posta ignorate (HEAD/OPTIONS): {$requests}"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Data"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Utente"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Revisione"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Browser"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Ancora nessun accesso con il link."

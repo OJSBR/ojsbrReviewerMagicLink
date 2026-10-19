@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: tr\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "30 Günlük Hakem Bağlantısı"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Hakemin tek tıkla erişim bağlantısını hatırlatmalardan sonra da sınırsız tıklamayla 30 gün geçerli tutar ve artık kullanılamadığında hata sayfası yerine giriş formuna yönlendirir."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Erişim bağlantınızın süresi doldu. Devam etmek için kullanıcı adınız ve parolanızla giriş yapın."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Başka bir hesapla giriş yapmıştınız. Devam etmek için hakemin kullanıcı adı ve parolasıyla giriş yapın."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Değerlendirmeyi aç"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Davet edildiğiniz değerlendirmeyi açmak için aşağıdaki düğmeye tıklayın."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Değerlendirmeyi aç"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Değerlendirme isteği ve hatırlatma e-postalarındaki tek tık bağlantısı, kaç kez açılırsa açılsın, hatırlatmadan sonra da aşağıdaki gün sayısı boyunca geçerli kalır. Artık kullanılamadığında giriş formuna ve ardından değerlendirmeye yönlendirir, asla hata sayfasına değil."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Bu dergide tek tık bağlantısı kapalı (Ayarlar > İş Akışı > Değerlendirme). Açılana kadar eklenti hiçbir şey yapmaz."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Geçerlilik"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Her bağlantının geçerli olduğu gün sayısı"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "E-postanın gönderildiği andan itibaren sayılır. 1 ile 365 arasında."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "1 ile 365 arasında bir gün sayısı girin."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Kim parolasız girer"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Bağlantı yalnızca bu dergide aşağıda izin verilenler dışında rolü olmayan kişilerin girişini yapar. Yöneticiler, editörler, asistanlar ve site yöneticileri her zaman giriş formuna yönlendirilir."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Hakemin girişini bağlantıyla otomatik yap"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Hakem bu dergide yazar olduğunda da"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Hakem bu dergide okur olduğunda da"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Girişten önce \"Değerlendirmeyi aç\" düğmeli bir sayfa göster (e-posta tarayıcılarına karşı ek koruma)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Bağlantıyla son girişler"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Yok sayılan e-posta tarayıcısı istekleri (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Tarih"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Kullanıcı"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Değerlendirme"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Tarayıcı"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Henüz bağlantıyla giriş yok."

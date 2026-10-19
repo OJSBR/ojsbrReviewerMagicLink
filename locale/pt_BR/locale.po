@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: pt_BR\n"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Link de avaliador por 30 dias"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Mantém o link de acesso de um clique do avaliador válido por 30 dias, com cliques ilimitados, também depois dos lembretes, e leva à tela de login em vez de uma página de erro quando não puder mais ser usado."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Seu link de acesso expirou. Entre com seu usuário e senha para continuar."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Você estava conectado com outra conta. Entre com o usuário e a senha do avaliador para continuar."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Acessar a avaliação"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Clique no botão abaixo para abrir a avaliação para a qual você foi convidado."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Acessar a avaliação"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "O link de um clique dos e-mails de solicitação de avaliação e de lembrete continua válido pelo número de dias abaixo, quantas vezes for aberto, também depois de um lembrete. Quando não puder mais ser usado, leva à tela de login e de volta à avaliação, nunca a uma página de erro."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "O link de um clique está desligado nesta revista (Configurações > Fluxo de trabalho > Avaliação). O plugin não faz nada até ele ser ligado."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Validade"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Dias de validade de cada link"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Contados a partir do envio do e-mail. Entre 1 e 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Informe um número de dias entre 1 e 365."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Quem entra sem senha"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "O link só faz login de quem não tem nesta revista outro papel além dos permitidos abaixo. Gerentes, editores, assistentes e administradores do site sempre vão para a tela de login."
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Fazer o login do avaliador automaticamente pelo link"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Também quando o avaliador é autor nesta revista"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Também quando o avaliador é leitor nesta revista"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Mostrar uma página com o botão \"Acessar a avaliação\" antes do login (proteção extra contra robôs de e-mail)"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Últimas entradas pelo link"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Acessos de robôs de e-mail ignorados (HEAD/OPTIONS): {$requests}"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Data"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Usuário"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Avaliação"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Navegador"
+
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Nenhuma entrada pelo link até agora."

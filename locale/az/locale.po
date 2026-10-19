@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: az\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "30 günlük rəyçi keçidi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Rəyçinin bir kliklə giriş keçidini 30 gün ərzində limitsiz kliklə, xatırlatmalardan sonra da etibarlı saxlayır və istifadə edilə bilmədikdə xəta səhifəsi əvəzinə giriş formasına aparır."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Giriş keçidinizin müddəti bitib. Davam etmək üçün istifadəçi adı və parolunuzla daxil olun."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Başqa hesabla daxil olmuşdunuz. Davam etmək üçün rəyçinin istifadəçi adı və parolu ilə daxil olun."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Rəyi aç"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Dəvət olunduğunuz rəyi açmaq üçün aşağıdakı düyməni klikləyin."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Rəyi aç"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Rəy sorğusu və xatırlatma məktublarındakı bir klik keçidi neçə dəfə açılsa da, xatırlatmadan sonra da aşağıdakı gün sayı qədər etibarlı qalır. İstifadə edilə bilmədikdə giriş formasına və sonra rəyə aparır, heç vaxt xəta səhifəsinə yox."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Bu jurnalda bir klik keçidi söndürülüb (Parametrlər > İş axını > Rəy). O yandırılana qədər plagin heç nə etmir."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Etibarlılıq"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Hər keçidin etibarlı qaldığı günlər"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Məktubun göndərildiyi andan sayılır. 1 ilə 365 arasında."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "1 ilə 365 arasında gün sayı daxil edin."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Kim parolsuz daxil olur"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Keçid yalnız bu jurnalda aşağıda icazə verilənlərdən başqa rolu olmayan şəxsləri daxil edir. Menecerlər, redaktorlar, köməkçilər və sayt administratorları həmişə giriş formasına düşür."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Rəyçini keçidlə avtomatik daxil et"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Rəyçi bu jurnalda müəllif olduqda da"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Rəyçi bu jurnalda oxucu olduqda da"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Daxil olmazdan əvvəl \"Rəyi aç\" düyməli səhifə göstər (poçt skanerlərinə qarşı əlavə qoruma)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Keçidlə son girişlər"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Nəzərə alınmayan poçt skaneri sorğuları (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Tarix"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "İstifadəçi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Rəy"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Brauzer"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Hələ keçidlə giriş yoxdur."

@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: sl\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Povezava za recenzenta za 30 dni"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Ohranja povezavo za dostop z enim klikom za recenzenta veljavno 30 dni z neomejenim številom klikov, tudi po opomnikih, in vodi na obrazec za prijavo namesto na stran z napako, ko je ni več mogoče uporabiti."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Vaša povezava za dostop je potekla. Za nadaljevanje se prijavite z uporabniškim imenom in geslom."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Bili ste prijavljeni z drugim računom. Za nadaljevanje se prijavite z uporabniškim imenom in geslom recenzenta."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Odpri recenzijo"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Kliknite spodnji gumb, da odprete recenzijo, na katero ste povabljeni."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Odpri recenzijo"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Povezava z enim klikom v sporočilih s prošnjo za recenzijo in opomnikom ostane veljavna spodaj navedeno število dni, ne glede na število odpiranj, tudi po opomniku. Ko je ni več mogoče uporabiti, vodi na obrazec za prijavo in nazaj k recenziji, nikoli na stran z napako."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Povezava z enim klikom je za to revijo izklopljena (Nastavitve > Potek dela > Recenzija). Vtičnik ne naredi ničesar, dokler je ne vklopite."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Veljavnost"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Dnevi veljavnosti vsake povezave"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Šteto od pošiljanja sporočila. Med 1 in 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Vnesite število dni med 1 in 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Kdo vstopi brez gesla"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Povezava prijavi samo osebe, ki v tej reviji nimajo drugih vlog razen spodaj dovoljenih. Upravitelji, uredniki, asistenti in skrbniki spletnega mesta vedno dobijo obrazec za prijavo."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Samodejno prijavi recenzenta s povezavo"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "Tudi ko je recenzent avtor v tej reviji"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "Tudi ko je recenzent bralec v tej reviji"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Pred prijavo prikaži stran z gumbom \"Odpri recenzijo\" (dodatna zaščita pred e-poštnimi skenerji)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Zadnji vstopi s povezavo"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Prezrte zahteve e-poštnih skenerjev (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Datum"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Uporabnik"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Recenzija"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Brskalnik"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "S povezavo še ni bilo vstopov."

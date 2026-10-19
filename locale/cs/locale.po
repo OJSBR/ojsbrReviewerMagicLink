@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: cs\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.displayName"
+msgstr "Odkaz pro recenzenta na 30 dní"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.description"
+msgstr "Udržuje odkaz pro přístup jedním kliknutím pro recenzenta platný 30 dní s neomezeným počtem kliknutí, i po připomínkách, a vede na přihlašovací formulář místo chybové stránky, když už jej nelze použít."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.expired"
+msgstr "Váš přístupový odkaz vypršel. Pro pokračování se přihlaste uživatelským jménem a heslem."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.login.otherUser"
+msgstr "Byli jste přihlášeni jiným účtem. Pro pokračování se přihlaste uživatelským jménem a heslem recenzenta."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.title"
+msgstr "Otevřít recenzi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.text"
+msgstr "Kliknutím na tlačítko níže otevřete recenzi, ke které jste byli pozváni."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.confirm.button"
+msgstr "Otevřít recenzi"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.intro"
+msgstr "Odkaz jedním kliknutím v e-mailech s žádostí o recenzi a s připomínkou zůstává platný po níže uvedený počet dní, ať je otevřen kolikrát chce, i po připomínce. Když jej už nelze použít, vede na přihlašovací formulář a zpět k recenzi, nikdy na chybovou stránku."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.accessKeysDisabled"
+msgstr "Odkaz jedním kliknutím je pro tento časopis vypnutý (Nastavení > Pracovní postup > Recenze). Plugin nic nedělá, dokud není zapnut."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.validity"
+msgstr "Platnost"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays"
+msgstr "Počet dní platnosti každého odkazu"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.description"
+msgstr "Počítáno od odeslání e-mailu. Mezi 1 a 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.validityDays.invalid"
+msgstr "Zadejte počet dní mezi 1 a 365."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access"
+msgstr "Kdo vstoupí bez hesla"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.access.description"
+msgstr "Odkaz přihlásí jen ty, kdo v tomto časopise nemají jinou roli než níže povolené. Manažeři, editoři, asistenti a správci webu vždy dostanou přihlašovací formulář."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.autoLogin"
+msgstr "Automaticky přihlásit recenzenta odkazem"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowAuthor"
+msgstr "I když je recenzent v tomto časopise autorem"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.allowReader"
+msgstr "I když je recenzent v tomto časopise čtenářem"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.confirmPage"
+msgstr "Před přihlášením zobrazit stránku s tlačítkem \"Otevřít recenzi\" (dodatečná ochrana proti e-mailovým skenerům)"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.area.uses"
+msgstr "Poslední vstupy odkazem"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.ignoredHeadRequests"
+msgstr "Ignorované požadavky e-mailových skenerů (HEAD/OPTIONS): {$requests}"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.date"
+msgstr "Datum"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.user"
+msgstr "Uživatel"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.review"
+msgstr "Recenze"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.ip"
+msgstr "IP"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.userAgent"
+msgstr "Prohlížeč"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrReviewerMagicLink.settings.uses.none"
+msgstr "Zatím žádný vstup odkazem."
