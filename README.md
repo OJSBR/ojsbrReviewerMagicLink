@@ -1,10 +1,10 @@
 # Reviewer Link for 30 Days — OJS plugin
 
 [![OJS](https://img.shields.io/badge/OJS-3.5-brightgreen)](https://pkp.sfu.ca/ojs/)
-[![Version](https://img.shields.io/badge/version-1.0.0.0-blue)](version.xml)
+[![Version](https://img.shields.io/badge/version-5.0.0.0-blue)](version.xml)
 [![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey)](LICENSE)
 
-**⬇️ Install package:** [OJS 3.5](https://github.com/OJSBR/ojsbrReviewerMagicLink/releases/download/1.0.0.0/ojsbrReviewerMagicLink-1.0.0.0.tar.gz) — or browse all [Releases](../../releases).
+**⬇️ Install package:** [OJS 3.5](https://github.com/OJSBR/ojsbrReviewerMagicLink/releases/download/5.0.0.0/ojsbrReviewerMagicLink-5.0.0.0.tar.gz) — or browse all [Releases](../../releases).
 
 A generic plugin for **OJS 3.5** that keeps the **one-click link** sent to reviewers
 (*Settings → Workflow → Review → "Include a secure link in the email invitation to
@@ -19,7 +19,7 @@ once the link can no longer be used.
 
 | Application | Branch | Plugin release |
 |-------------|--------|----------------|
-| OJS 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 1.0.0.0 |
+| OJS 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 5.0.0.0 |
 
 Tested on OJS 3.5.0.3 and 3.5.0.5.
 
@@ -171,7 +171,7 @@ e-mail de convite aos avaliadores"*) válido por **30 dias** (configurável), qu
 for aberto, **também depois dos lembretes**, e que leva à **tela de login** em vez de uma
 página de erro quando o link não puder mais ser usado.
 
-**⬇️ Pacote de instalação:** [OJS 3.5](https://github.com/OJSBR/ojsbrReviewerMagicLink/releases/download/1.0.0.0/ojsbrReviewerMagicLink-1.0.0.0.tar.gz) — ou veja todas as [Releases](../../releases).
+**⬇️ Pacote de instalação:** [OJS 3.5](https://github.com/OJSBR/ojsbrReviewerMagicLink/releases/download/5.0.0.0/ojsbrReviewerMagicLink-5.0.0.0.tar.gz) — ou veja todas as [Releases](../../releases).
 
 > **Desenvolvido e mantido pela [OJSBR](https://ojsbr.com).** Veja os
 > [Créditos e autoria](#créditos-e-autoria).
@@ -180,7 +180,7 @@ página de erro quando o link não puder mais ser usado.
 
 | Aplicação | Branch | Versão do plugin |
 |-----------|--------|------------------|
-| OJS 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 1.0.0.0 |
+| OJS 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 5.0.0.0 |
 
 Testado no OJS 3.5.0.3 e 3.5.0.5.
 

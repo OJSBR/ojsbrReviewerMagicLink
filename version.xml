@@ -16,8 +16,8 @@
 <version>
 	<application>ojsbrReviewerMagicLink</application>
 	<type>plugins.generic</type>
-	<release>1.0.0.0</release>
-	<date>2026-10-19</date>
+	<release>5.0.0.0</release>
+	<date>2026-11-26</date>
 	<lazy-load>1</lazy-load>
 	<class>OjsbrReviewerMagicLinkPlugin</class>
 </version>
